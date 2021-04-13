@@ -1,0 +1,10 @@
+chain
+r3,1.0, 
+p4,0
+endChain
+chain
+r4,1.0, 
+p18,1.0, 
+p13,1.0, 
+p10,0
+endChain

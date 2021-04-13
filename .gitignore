@@ -1,0 +1,10 @@
+data/*
+
+.DS_Store
+**/.DS_Store
+
+**/.idea/
+**/__pycache__/
+*.pyc
+gurobi.log
+

@@ -1,0 +1,8 @@
+chain
+r1,1.0, 
+p1,0
+endChain
+cycle
+p2,1.0, 
+p3,1.0
+endCycle
